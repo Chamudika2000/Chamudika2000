@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php, laraval**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/chamudika-dharmawardhana-7aa22023b](https://www.linkedin.com/in/chamudika-dharmawardhana-7aa22023b)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sasinee-chamudika-7aa22023b](www.linkedin.com/in/sasinee-chamudika-7aa22023b)
 
 - 💬 Ask me about **java**
 
