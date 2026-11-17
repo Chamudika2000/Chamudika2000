@@ -57,4 +57,4 @@
 
 <hr>
 
-<p align="center">⭐ Passionate about software quality, continuous learning, and building better user experiences.</p>
+<p align="center">⭐ Passionate about software quality, continuous learning and building better user experiences.</p>
