@@ -34,11 +34,11 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
   <a href="https://clickup.com/" target="_blank"><img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-  <a href="https://jmeter.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/></a>
+ <a href="https://jmeter.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20JMeter-333333?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </p>
 
 <h3 align="left">🎓 Education</h3>
